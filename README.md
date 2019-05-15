@@ -4,16 +4,16 @@
 
 # 大纲
 
-## Taro 基础
+# Taro 基础
 
-## React 进阶
+# React 进阶
 
-- React Context
+## React Context
 
-- 基于 Context 的主题切换
+## 基于 Context 的主题切换
 
-- 微前端工程化架构
+## 微前端工程化架构
 
-## Node.js 全栈
+# Node.js 全栈
 
-## 面试准备
+# 面试准备
